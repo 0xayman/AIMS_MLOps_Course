@@ -29,7 +29,7 @@ The devcontainer is configured to install dependencies automatically with `uv sy
 Useful environment commands:
 
 - `source .venv/bin/activate` — activate the project virtual environment
-- `deactivate` — leave the virtual environment
+- `deactivate` — deactivate the virtual environment
 - `which python` — confirm the active Python interpreter
 - `uv python find` — show the current uv-managed Python
 - `uv pip list` — list installed packages
